@@ -1,4 +1,4 @@
-# My School Quarter 4 Project
+# My School's 4th Quarter Project
 
 Welcome to my html project!
 
