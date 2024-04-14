@@ -60,5 +60,8 @@ news and events page
 ![bandicam 2024-04-14 18-44-56-974](https://github.com/PUG-The-Sniper/webpage_project/assets/114877791/72930ff4-1342-485a-aa70-0dadc0250058)
 ![bandicam 2024-04-14 18-44-55-698](https://github.com/PUG-The-Sniper/webpage_project/assets/114877791/f2c18235-648c-4c49-911a-4d199108e742)
 
+SC Voting system : 
+(not yet made)
+
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See the [LICENSE](LICENSE) file for details.
